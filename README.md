@@ -1,2 +1,2 @@
-# ttn-ddns
+# hm-ddns
 DNS dinamikoak (dyndns2) eguneratzeko bash skripta
