@@ -1,4 +1,4 @@
-# hm-ddns
+# hm-ddns.sh
 DNS dinamikoak (dyndns2) eguneratzeko bash skripta // DynDNS (dyndns2) updater script
 
 
